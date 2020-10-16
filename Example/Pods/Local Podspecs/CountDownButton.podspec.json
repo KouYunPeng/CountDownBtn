@@ -1,0 +1,22 @@
+{
+  "name": "CountDownButton",
+  "version": "0.1.0",
+  "summary": "A short description of CountDownButton.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/kyp5146@126.com/CountDownButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kyp5146@126.com": "kyp5146@126.com"
+  },
+  "source": {
+    "git": "https://github.com/kyp5146@126.com/CountDownButton.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CountDownButton/Classes/**/*"
+}

@@ -1,0 +1,27 @@
+PODS:
+  - CountDownButton (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - CountDownButton (from `../`)
+  - FBSnapshotTestCase
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  CountDownButton:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CountDownButton: dc5964a88a454faa76c4e729dafe8474289987f1
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 521204f90d7bdb1a10bf2ccaaae014556f59727d
+
+COCOAPODS: 1.10.0.beta.2

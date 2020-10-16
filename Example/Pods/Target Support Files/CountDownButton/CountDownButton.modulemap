@@ -1,0 +1,6 @@
+framework module CountDownButton {
+  umbrella header "CountDownButton-umbrella.h"
+
+  export *
+  module * { export * }
+}
